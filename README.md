@@ -14,7 +14,6 @@ Aplicació per monitoritzar i optimitzar el consum energètic de llars i emprese
 - [Manual tècnic](docs/manual_tecnic.md)
 - [Guia d'instal·lació](docs/guia_instalacio.md)
 
-
 ## 👥 Equip
 ### Product Owner
 - Maria García
@@ -23,4 +22,6 @@ Aplicació per monitoritzar i optimitzar el consum energètic de llars i emprese
 ### Equip de desenvolupament
 - Anna Martínez
 - Bernat Puig
+
+
 
