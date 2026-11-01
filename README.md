@@ -25,12 +25,3 @@ Aplicació per monitoritzar i optimitzar el consum energètic de llars i emprese
 - PostgreSQL
 - Prisma ORM
 
-
-## 👥 Equip
-### Product Owner
-- Maria García
-### Scrum Master
-- Jordi Ferrer
-### Equip de desenvolupament
-- Anna Martínez
-- Bernat Puig
